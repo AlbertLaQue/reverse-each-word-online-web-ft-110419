@@ -1,3 +1,9 @@
 def reverse_each_word(string)
-  string.split.reverse
+ new_sentence = ""
+  reverse_each_word.split.each do |word| 
+    new_se
+  
+    
+  
+  
 end
